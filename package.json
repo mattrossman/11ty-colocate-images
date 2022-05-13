@@ -1,0 +1,12 @@
+{
+  "name": "11ty-colocate-images",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0-canary.10"
+  }
+}
